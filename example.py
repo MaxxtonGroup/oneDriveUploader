@@ -1,4 +1,6 @@
 import oneDriveUpload
+import json
+import sys
 
 # read the parameters.json
 config = json.load(open(sys.argv[1]))

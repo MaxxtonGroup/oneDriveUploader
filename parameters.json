@@ -1,0 +1,7 @@
+{
+  "authority": "https://login.microsoftonline.com/YOUR_TENANT_ID / SITE ID",
+  "client_id": "CLIENT_ID",
+  "scope": [ "https://graph.microsoft.com/.default" ],
+  "secret": "CLIENT_SECRET",
+  "driveId": "YOUR_DRIVE_ID"
+}

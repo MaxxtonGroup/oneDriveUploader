@@ -1,2 +1,2 @@
-equests>=2,<3
+requests>=2,<3
 msal>=0,<2
